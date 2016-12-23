@@ -1,0 +1,26 @@
+#header{
+	background-color: #4188f0;
+	height: 50px;
+	color:white;
+	font-size: 25px;
+}
+#cover{
+	margin:0px auto;
+}
+body{
+	margin:0px 0px;
+}
+.cards{
+	border: 1px solid;
+	background-color: white;
+}
+.btn{
+	font-size: 27px;
+	height:40px;
+	color:white;
+	background-color: blue;
+	text-align: center;
+}
+.btn:hover{
+	opacity: 0.8;
+}

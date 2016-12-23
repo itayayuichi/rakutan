@@ -1,0 +1,44 @@
+#header{
+	background-color: #4188f0;
+	height: 50px;
+	color:white;
+	font-size: 25px;
+}
+#header_font{
+	margin-left: 200px;
+}
+#cover{
+	width:980px;
+	margin:0px auto;
+}
+#left_contents{
+	width:130px;
+	float:left;
+	border-right: 1px solid red;
+	margin-right: 20px;
+}
+#main_contents{
+	width:690px;
+	margin:0px auto;
+	background-color: #f5f5f5;
+	float: left;
+}
+body{
+	margin:0px 0px;
+}
+.cards{
+	background-color: white;
+	width:600px;
+	margin:20px auto;
+}
+.btn{
+	font-size: 27px;
+	width:600px;
+	height:40px;
+	color:white;
+	background-color: blue;
+	text-align: center;
+}
+.btn:hover{
+	opacity: 0.8;
+}
